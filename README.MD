@@ -1,4 +1,4 @@
-![logo](https://cdn.modrinth.com/data/a87Zzdmj/images/306f02e6da3764bbe43212285e7ef666fd0d8ae8.png)
+![logo](https://i.imgur.com/iayNC7o.png)
 
 # English (En)
 
@@ -67,7 +67,7 @@ The mod/datapack is compatible with everything that does not replace these 6 fil
 
 ## Report bug
 
-If you find any bug in the mod/datapack, you can report it in the [Issues]() section on GitHub or in any [way](https://qsfdev.bio.link/) convenient to you by private message.
+If you find any bug in the mod/datapack, you can report it in the [Issues](https://github.com/QuickStopFire/Extra-Fuel/issues) section on GitHub or in any [way](https://qsfdev.bio.link/) convenient to you by private message.
 
 # Русский (Ru)
 
@@ -136,4 +136,4 @@ If you find any bug in the mod/datapack, you can report it in the [Issues]() sec
 
 ## Сообщить об ошибке
 
-Если вы нашли какую-либо ошибку в работе мода/датапака, вы можете сообщить об этом в разделе [Issues]() на GitHub или любым удобным вам [способом](https://qsfdev.bio.link/) личным сообщением.
+Если вы нашли какую-либо ошибку в работе мода/датапака, вы можете сообщить об этом в разделе [Issues](https://github.com/QuickStopFire/Extra-Fuel/issues) на GitHub или любым удобным вам [способом](https://qsfdev.bio.link/) личным сообщением.
