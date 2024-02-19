@@ -1,0 +1,1 @@
+{"schemaVersion":1,"id":"mr_extra_fuel","version":"1.0","name":"Extra Fuel","description":"Use books, maps and other items as fuel!","authors":["QuickStopFire"],"contact":{"homepage":"https://modrinth.com/datapack/extra-fuel"},"license":"LicenseRef-Unknown","icon":"extra-fuel_pack.png","environment":"*","depends":{"fabric-resource-loader-v0":"*"}}
