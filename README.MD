@@ -44,7 +44,7 @@ Item/Block                                                                      
 ![shield](https://idpredmetov.ru/sprites/32/shield.png) Shield                                                       | 10           | 1               |
 ![carrot_on_a_stick](https://idpredmetov.ru/sprites/32/carrot-on-a-stick.png) Carrot on a Stick                      | 15           | 1.5             |
 ![warped_fungus_on_a_stick](https://idpredmetov.ru/sprites/32/warped-fungus-on-a-stick.png) Warped Fungus on a Stick | 15           | 1.5             |
-![beds](https://idpredmetov.ru/sprites/32/warped-fungus-on-a-stick.png) Bed                                          | 60           | 6               |
+![beds](https://idpredmetov.ru/sprites/32/white-bed.png) Bed                                                         | 60           | 6               |
 ![blaze_powder](https://idpredmetov.ru/sprites/32/blaze-powder.png) Blaze Powder                                     | 60           | 6               |
 ![fire_charge](https://idpredmetov.ru/sprites/32/fire-charge.png) Fire Charge                                        | 60           | 6               |
 ![campfire](https://idpredmetov.ru/sprites/32/campfire.png) Сampfire                                                 | 60           | 6               |
@@ -113,7 +113,7 @@ If you find any bug in the mod/datapack, you can report it in the [Issues](https
 ![shield](https://idpredmetov.ru/sprites/32/shield.png) Щит                                                             | 10            | 1                |
 ![carrot_on_a_stick](https://idpredmetov.ru/sprites/32/carrot-on-a-stick.png) Удочка с морковью                         | 15            | 1.5              |
 ![warped_fungus_on_a_stick](https://idpredmetov.ru/sprites/32/warped-fungus-on-a-stick.png) Удочка с искажённым грибком | 15            | 1.5              |
-![beds](https://idpredmetov.ru/sprites/32/warped-fungus-on-a-stick.png) Кровать                                         | 60            | 6                |
+![beds](https://idpredmetov.ru/sprites/32/white-bed.png) Кровать                                                        | 60            | 6                |
 ![blaze_powder](https://idpredmetov.ru/sprites/32/blaze-powder.png) Огненный порошок                                    | 60            | 6                |
 ![fire_charge](https://idpredmetov.ru/sprites/32/fire-charge.png) Огненный шар                                          | 60            | 6                |
 ![campfire](https://idpredmetov.ru/sprites/32/campfire.png) Костёр                                                      | 60            | 6                |
